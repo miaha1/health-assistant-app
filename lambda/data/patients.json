@@ -1,0 +1,478 @@
+[
+  {
+    "patient_id": "44685f6b-2a93-482c-8480-b7e7becd98a5",
+    "name": "Angela Mccormick DDS",
+    "email": "aguilarbrandon@example.org",
+    "dob": "1986-05-02",
+    "condition": [
+      "Diabetes",
+      "Allergies"
+    ],
+    "phone_number": "900-325-6360"
+  },
+  {
+    "patient_id": "befa2fdd-139c-458c-b2ca-b4a117de4339",
+    "name": "Erin Parks",
+    "email": "ndavis@example.net",
+    "dob": "1954-06-23",
+    "condition": [
+      "Allergies"
+    ],
+    "phone_number": "556-275-0681x608"
+  },
+  {
+    "patient_id": "07ec2fd7-30e8-4cb8-9fc3-03ad3c7f11cb",
+    "name": "Patrick Anderson",
+    "email": "matthewsjessica@example.org",
+    "dob": "1984-01-27",
+    "condition": [
+      "Diabetes"
+    ],
+    "phone_number": "001-793-516-7723x806"
+  },
+  {
+    "patient_id": "44a67a75-b428-4c93-b1a6-8ccaa6d6b767",
+    "name": "Juan Elliott",
+    "email": "sarahsmith@example.net",
+    "dob": "1938-09-16",
+    "condition": [],
+    "phone_number": "5865094981"
+  },
+  {
+    "patient_id": "ff1585c2-353b-4158-bc86-4e9ac6669b00",
+    "name": "Brian Chavez",
+    "email": "astrickland@example.com",
+    "dob": "1959-05-09",
+    "condition": [],
+    "phone_number": "001-586-359-7612x3339"
+  },
+  {
+    "patient_id": "eb155fbc-b80f-4ee9-8d33-bb259eddcf8d",
+    "name": "Douglas Caldwell",
+    "email": "greenekendra@example.com",
+    "dob": "1942-08-20",
+    "condition": [
+      "Allergies"
+    ],
+    "phone_number": "589-580-1182x855"
+  },
+  {
+    "patient_id": "4f41178a-6fc8-4faf-83a1-cfe2e68f05ef",
+    "name": "Michael Rasmussen",
+    "email": "leonard92@example.com",
+    "dob": "1953-04-29",
+    "condition": [
+      "Heart_Disease",
+      "allergy_penicillin"
+    ],
+    "phone_number": "570.930.1631"
+  },
+  {
+    "patient_id": "d2c16f89-3677-423a-ac5c-09ca17e726bc",
+    "name": "Sarah Grant",
+    "email": "otaylor@example.com",
+    "dob": "1938-06-21",
+    "condition": [
+      "allergy_penicillin",
+      "Diabetes"
+    ],
+    "phone_number": "001-207-296-7661x4973"
+  },
+  {
+    "patient_id": "5f0a138c-44af-4e47-a002-ca7b11b4b823",
+    "name": "Ariana Hill",
+    "email": "tdavis@example.net",
+    "dob": "1936-10-29",
+    "condition": [
+      "Heart_Disease"
+    ],
+    "phone_number": "+1-949-452-8912x32872"
+  },
+  {
+    "patient_id": "dc024594-6dd7-4abd-a6de-0777c548a333",
+    "name": "Michael Wong",
+    "email": "richardstewart@example.com",
+    "dob": "1963-02-11",
+    "condition": [
+      "Heart_Disease"
+    ],
+    "phone_number": "739-937-6855x163"
+  },
+  {
+    "patient_id": "72c24e8a-d0eb-4b52-966b-6d05421ccaad",
+    "name": "Jamie Williams",
+    "email": "smithmark@example.com",
+    "dob": "1979-11-24",
+    "condition": [
+      "Heart_Disease"
+    ],
+    "phone_number": "693-448-0128"
+  },
+  {
+    "patient_id": "d6fcf83c-0dd7-49c7-bab2-d2e03b00da0f",
+    "name": "Jacob Stanley",
+    "email": "leahnguyen@example.org",
+    "dob": "1942-03-18",
+    "condition": [
+      "Diabetes",
+      "None"
+    ],
+    "phone_number": "438-393-7458"
+  },
+  {
+    "patient_id": "868207c7-e392-4145-abd1-31e66406d552",
+    "name": "Jack Williams",
+    "email": "heatherdickson@example.net",
+    "dob": "1995-05-27",
+    "condition": [],
+    "phone_number": "(969)510-2701"
+  },
+  {
+    "patient_id": "e5a1b5df-e5b9-431f-af5c-4b760cfd4e4c",
+    "name": "Lynn Beltran",
+    "email": "vhall@example.net",
+    "dob": "1954-12-06",
+    "condition": [
+      "Allergies"
+    ],
+    "phone_number": "+1-654-299-3278x2557"
+  },
+  {
+    "patient_id": "986294dc-e039-4fa1-bfe4-34244ad0552c",
+    "name": "Michael Herrera",
+    "email": "bradleyhodges@example.net",
+    "dob": "1978-12-31",
+    "condition": [],
+    "phone_number": "886.595.3183x75595"
+  },
+  {
+    "patient_id": "ba16e93f-8db6-49e5-bbe0-78d06ea5048e",
+    "name": "Brian Walker",
+    "email": "victorcook@example.org",
+    "dob": "1998-06-09",
+    "condition": [],
+    "phone_number": "(699)679-4263"
+  },
+  {
+    "patient_id": "0ab36cb3-8458-4f3e-b710-e008334bdde3",
+    "name": "Alexandria Gentry",
+    "email": "cindywelch@example.org",
+    "dob": "1993-03-14",
+    "condition": [],
+    "phone_number": "+1-860-583-9991"
+  },
+  {
+    "patient_id": "4221ee02-4258-450a-b1f0-f8b4cc0a9076",
+    "name": "Brandy Murphy",
+    "email": "ejensen@example.org",
+    "dob": "1950-03-29",
+    "condition": [],
+    "phone_number": "610-766-8470"
+  },
+  {
+    "patient_id": "0dce6060-89e5-462c-bfba-f0ad9d32583f",
+    "name": "Eric Bradford",
+    "email": "amber91@example.com",
+    "dob": "1945-10-29",
+    "condition": [],
+    "phone_number": "925.410.8426"
+  },
+  {
+    "patient_id": "5d98e1c1-ed17-4c45-afec-166c68a0d96c",
+    "name": "Derek Jones",
+    "email": "melissa66@example.org",
+    "dob": "1955-12-12",
+    "condition": [],
+    "phone_number": "692.732.3774x28453"
+  },
+  {
+    "patient_id": "784cce62-ea11-4ec3-a356-f79e4e0061c1",
+    "name": "Jose Byrd",
+    "email": "maxwelljohn@example.net",
+    "dob": "1980-08-13",
+    "condition": [],
+    "phone_number": "486.461.5609x95944"
+  },
+  {
+    "patient_id": "e9f8d123-8009-4520-b3e5-8f66e613699d",
+    "name": "Melissa Olsen",
+    "email": "jessica45@example.com",
+    "dob": "1968-02-01",
+    "condition": [
+      "Diabetes"
+    ],
+    "phone_number": "500.306.4351"
+  },
+  {
+    "patient_id": "ff2be73d-f10f-4be8-8a51-1f3068859dbf",
+    "name": "Sandra Sharp",
+    "email": "irussell@example.com",
+    "dob": "1985-06-17",
+    "condition": [],
+    "phone_number": "+1-242-476-2824"
+  },
+  {
+    "patient_id": "003032b7-1190-4607-8de6-df014b8462f1",
+    "name": "Robert Sanford",
+    "email": "keith77@example.org",
+    "dob": "1968-06-06",
+    "condition": [],
+    "phone_number": "497.252.1056x33023"
+  },
+  {
+    "patient_id": "5061bb06-f72c-44ec-82f1-5743dafcd119",
+    "name": "Ryan Robinson",
+    "email": "mark81@example.net",
+    "dob": "1948-07-20",
+    "condition": [],
+    "phone_number": "(734)560-8723x47609"
+  },
+  {
+    "patient_id": "6d01e2d4-f9e6-43ce-a819-26ab31dc09d2",
+    "name": "Courtney Koch",
+    "email": "kathryn58@example.org",
+    "dob": "1951-02-02",
+    "condition": [
+      "Asthma",
+      "Diabetes"
+    ],
+    "phone_number": "488-339-9351"
+  },
+  {
+    "patient_id": "9abd776e-2832-4bd4-af60-06557cd020ea",
+    "name": "Kyle Thompson",
+    "email": "heathermoore@example.net",
+    "dob": "1980-06-28",
+    "condition": [
+      "Heart_Disease"
+    ],
+    "phone_number": "7592603406"
+  },
+  {
+    "patient_id": "377d764d-9eca-401d-aa43-7158ecfb64d0",
+    "name": "Gary Cruz",
+    "email": "gedwards@example.org",
+    "dob": "1946-12-02",
+    "condition": [
+      "Asthma"
+    ],
+    "phone_number": "+1-971-855-4280x08611"
+  },
+  {
+    "patient_id": "780e4b69-2610-47b3-8d6a-201339bd6e60",
+    "name": "Pamela Harrell",
+    "email": "christian98@example.org",
+    "dob": "1986-05-25",
+    "condition": [
+      "Hypertension"
+    ],
+    "phone_number": "421-657-4914"
+  },
+  {
+    "patient_id": "60c198ea-8cbb-45ef-a16a-380eee5a7258",
+    "name": "Megan Brown",
+    "email": "powersdan@example.net",
+    "dob": "1945-01-12",
+    "condition": [
+      "allergy_penicillin",
+      "Allergies"
+    ],
+    "phone_number": "(636)992-3048x7001"
+  },
+  {
+    "patient_id": "5f82b812-7929-48cb-836a-e6c0e26d0999",
+    "name": "Pamela Alvarez",
+    "email": "obeck@example.com",
+    "dob": "1992-11-21",
+    "condition": [],
+    "phone_number": "2044523897"
+  },
+  {
+    "patient_id": "3c8d48c2-fa3c-49a7-856d-05f87361a24c",
+    "name": "Glenn Ellis",
+    "email": "rjohnson@example.com",
+    "dob": "1979-12-26",
+    "condition": [
+      "Diabetes",
+      "allergy_penicillin"
+    ],
+    "phone_number": "+1-915-934-0041"
+  },
+  {
+    "patient_id": "592e9f3d-476c-48a0-a13b-13c4faf8a8a4",
+    "name": "Lisa Thomas",
+    "email": "meredithdavis@example.net",
+    "dob": "2003-10-08",
+    "condition": [],
+    "phone_number": "593-861-0144x829"
+  },
+  {
+    "patient_id": "3ba6247d-ce70-46f6-9b6e-9638ba164d1f",
+    "name": "Brittany Davidson",
+    "email": "dana14@example.com",
+    "dob": "1966-12-19",
+    "condition": [
+      "Hypertension",
+      "Allergies"
+    ],
+    "phone_number": "868.920.2300x44734"
+  },
+  {
+    "patient_id": "b3cc9920-53c9-4e50-8110-af0f62187e32",
+    "name": "Emily Church",
+    "email": "duffydonald@example.net",
+    "dob": "1940-08-27",
+    "condition": [
+      "Heart_Disease",
+      "Allergies"
+    ],
+    "phone_number": "+1-568-711-1119x60993"
+  },
+  {
+    "patient_id": "49924658-de65-4c93-baef-19456b032f48",
+    "name": "Kenneth Sanchez",
+    "email": "omontes@example.org",
+    "dob": "1985-03-28",
+    "condition": [
+      "Diabetes"
+    ],
+    "phone_number": "700.565.2088"
+  },
+  {
+    "patient_id": "cd641797-d3fb-4860-a967-4e4568540700",
+    "name": "James French",
+    "email": "mary35@example.com",
+    "dob": "1967-12-05",
+    "condition": [],
+    "phone_number": "2439043500"
+  },
+  {
+    "patient_id": "88f87d0e-2d39-4b1e-a1b5-7ae34cab697b",
+    "name": "Rebecca Brennan",
+    "email": "caroline13@example.net",
+    "dob": "1989-01-28",
+    "condition": [],
+    "phone_number": "229.459.3455x8831"
+  },
+  {
+    "patient_id": "a9f5e834-528d-4aa8-ae1b-29b2b7d1d909",
+    "name": "Jacob Hernandez",
+    "email": "emoore@example.com",
+    "dob": "1945-01-14",
+    "condition": [
+      "Allergies",
+      "allergy_penicillin"
+    ],
+    "phone_number": "580.685.7151"
+  },
+  {
+    "patient_id": "d9da5c77-c59d-4118-9f0b-1c4a3817340d",
+    "name": "Tiffany Johnson",
+    "email": "jessica42@example.net",
+    "dob": "1951-10-05",
+    "condition": [
+      "Heart_Disease",
+      "None"
+    ],
+    "phone_number": "470-586-8908x6976"
+  },
+  {
+    "patient_id": "8fe83a70-8d02-4c5b-8a8d-52279b36acf3",
+    "name": "Matthew Lawrence",
+    "email": "william74@example.net",
+    "dob": "1953-09-16",
+    "condition": [
+      "None"
+    ],
+    "phone_number": "292.333.6670x73922"
+  },
+  {
+    "patient_id": "c603949a-5054-405b-b041-4b7be02216bd",
+    "name": "Hailey Morris",
+    "email": "rangelamanda@example.com",
+    "dob": "1970-08-31",
+    "condition": [],
+    "phone_number": "+1-979-976-2488x4545"
+  },
+  {
+    "patient_id": "15a272f0-f8c9-4fb4-934c-2240267fd582",
+    "name": "Mackenzie Mcintosh",
+    "email": "hsmith@example.org",
+    "dob": "1985-07-18",
+    "condition": [
+      "None",
+      "Diabetes"
+    ],
+    "phone_number": "317-949-1796"
+  },
+  {
+    "patient_id": "533b49e4-313d-44da-b0ee-ba183b41f95f",
+    "name": "Jacob Rollins",
+    "email": "heidiwolfe@example.net",
+    "dob": "1970-11-21",
+    "condition": [
+      "Allergies",
+      "Heart_Disease"
+    ],
+    "phone_number": "530-932-0969x8122"
+  },
+  {
+    "patient_id": "2d5926ac-63c0-4ac2-a440-0226ec11433f",
+    "name": "Frederick Cline",
+    "email": "hallrodney@example.net",
+    "dob": "1948-10-24",
+    "condition": [
+      "Hypertension"
+    ],
+    "phone_number": "001-869-867-6781x15375"
+  },
+  {
+    "patient_id": "5016a932-2686-4486-9a52-60e265d53f01",
+    "name": "Barbara Mitchell",
+    "email": "thomaschristine@example.com",
+    "dob": "1986-06-21",
+    "condition": [
+      "Hypertension"
+    ],
+    "phone_number": "+1-338-647-4156x02742"
+  },
+  {
+    "patient_id": "f1f21698-2953-489d-a36e-c1bb397e1aa4",
+    "name": "Kristen Hood",
+    "email": "currygeorge@example.net",
+    "dob": "1975-09-05",
+    "condition": [
+      "allergy_penicillin"
+    ],
+    "phone_number": "001-997-637-5818x5510"
+  },
+  {
+    "patient_id": "cfee66c1-6d7d-40f9-aeb0-44bcf3faad1c",
+    "name": "John Gibson",
+    "email": "lwillis@example.org",
+    "dob": "1994-08-12",
+    "condition": [],
+    "phone_number": "+1-440-588-0637"
+  },
+  {
+    "patient_id": "9cdae5bd-3c5b-4307-b2f1-19aebd8ec197",
+    "name": "Mary Alvarado",
+    "email": "xglass@example.net",
+    "dob": "1984-05-13",
+    "condition": [
+      "Hypertension"
+    ],
+    "phone_number": "(896)559-9604x4856"
+  },
+  {
+    "patient_id": "b84cbe80-ffd3-4d98-b878-a6484b432178",
+    "name": "Christopher Park",
+    "email": "williamvaldez@example.org",
+    "dob": "1993-05-30",
+    "condition": [
+      "allergy_penicillin",
+      "None"
+    ],
+    "phone_number": "803-865-3907x12287"
+  }
+]

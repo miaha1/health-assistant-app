@@ -1,0 +1,1178 @@
+[
+  {
+    "slot_id": "d4e372f8-6b42-49b2-a1c3-b32ae389e173",
+    "datetime": "2025-11-30T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "40e7272e-0ca9-45ec-b309-8b0c8a45cbb8",
+    "datetime": "2025-11-30T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "547cc95d-0ace-41a7-a0a4-df61d8f0d582",
+    "datetime": "2025-11-30T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "38cb7963-a8b0-4eac-929f-2c8533c0e38a",
+    "datetime": "2025-11-30T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6e01b2e9-57fd-4d5f-8fcd-9f4671c65f29",
+    "datetime": "2025-11-30T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c49920cd-016a-43d6-acad-840d9638fadd",
+    "datetime": "2025-11-30T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "a6692d4f-9627-46c4-9589-b7d8d4b2fbac",
+    "datetime": "2025-11-30T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e724ddad-7180-4bc8-b4bb-1578ab724740",
+    "datetime": "2025-11-30T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "9dda77de-2ba5-4cfa-ad84-ecbb4b422ca5",
+    "datetime": "2025-11-30T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c3ce3751-f4ac-47c4-a79f-672095a6108b",
+    "datetime": "2025-11-30T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0fbf2c1b-3252-4273-b24e-222ed10619ae",
+    "datetime": "2025-11-30T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "5a31fc82-c214-4c57-8f73-cc3311bd3912",
+    "datetime": "2025-11-30T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f862faf0-6ff2-4a7d-9791-ce5eb1d7f40e",
+    "datetime": "2025-11-30T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7f1feb85-9470-4ed3-b25e-cbbc506eb0a3",
+    "datetime": "2025-11-30T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "4724033c-a795-4201-8fa3-39e60696c659",
+    "datetime": "2025-11-30T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6e42818d-97fe-4b1a-bb1d-e39d6d3ba9b0",
+    "datetime": "2025-11-30T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d5294a81-a43d-4901-a518-761e419e0c3b",
+    "datetime": "2025-11-30T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f180deae-cfd2-41f1-a301-ba9c8fc60e1f",
+    "datetime": "2025-11-30T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "ce0efb85-c79d-4976-86b3-f0b6157e55fc",
+    "datetime": "2025-11-30T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "040cb23b-53f9-4848-947e-52db1ea36c90",
+    "datetime": "2025-11-30T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "5f403eaa-ee9e-4143-9fc1-bff68118a91d",
+    "datetime": "2025-11-30T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "8fd06a4b-71cb-4c27-842e-666450390e93",
+    "datetime": "2025-11-30T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f625ff51-4787-470c-a67e-830e71895bc4",
+    "datetime": "2025-11-30T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0b4f34d7-3e60-42f2-9314-58e388377040",
+    "datetime": "2025-11-30T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7f4e20b2-0a3d-48c6-be4f-466174ec60fd",
+    "datetime": "2025-12-01T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e2de1642-ab97-42f2-a474-8353f594d46a",
+    "datetime": "2025-12-01T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2d0cb412-5768-4c06-a6e1-ff0e327deab7",
+    "datetime": "2025-12-01T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "12834cdf-fa47-4971-9a74-70edb5c05ac8",
+    "datetime": "2025-12-01T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c4fb2fb5-a50c-42e2-83a8-8e643f58b3b6",
+    "datetime": "2025-12-01T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b763fd66-4804-4938-b910-bf863fe077fc",
+    "datetime": "2025-12-01T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "228edca6-268b-46e9-b707-c06f15abcafe",
+    "datetime": "2025-12-01T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "5e875cfe-b020-46f8-adaf-67c9c76d7f77",
+    "datetime": "2025-12-01T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c02bcad0-0a98-433f-adf6-819a64c26291",
+    "datetime": "2025-12-01T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "201ab047-cd12-4e93-b39c-d2361535b721",
+    "datetime": "2025-12-01T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d0a07362-b952-4288-b59e-3c6f4f6cff56",
+    "datetime": "2025-12-01T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "4b94ee33-afba-4bfa-9d8c-2c3d672f2d5a",
+    "datetime": "2025-12-01T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "131ed30c-cbf4-4453-b6a8-77a96edf59bb",
+    "datetime": "2025-12-01T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "68c31dd7-b0e9-43d2-a7c5-a4d8c9e45877",
+    "datetime": "2025-12-01T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c9d99f24-b08a-4c29-8ce4-3173f89a2e25",
+    "datetime": "2025-12-01T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6068184d-1fd1-43f3-8862-5b0ae9a3f497",
+    "datetime": "2025-12-01T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "9089fe1e-ef1f-4df3-a24f-30a364733275",
+    "datetime": "2025-12-01T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "8651a944-5353-4218-9867-c3b4a17a48b3",
+    "datetime": "2025-12-01T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "3b26c691-f1f4-4d01-936f-cf097448ce48",
+    "datetime": "2025-12-01T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "a9000f8d-7f65-4d08-81ef-8a0cb797a0a4",
+    "datetime": "2025-12-01T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "ec44e30b-63b7-4fbc-b1d5-8d26b961dac5",
+    "datetime": "2025-12-01T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "444ee005-c78b-431c-a2d7-4c48dddd1b2d",
+    "datetime": "2025-12-01T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7cb406ff-d32d-4531-84f9-13077a726608",
+    "datetime": "2025-12-01T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "44968e5b-a66f-4c4c-a776-81df700c6687",
+    "datetime": "2025-12-01T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "9ff6fa32-6780-41b2-8ec3-407be9230e10",
+    "datetime": "2025-12-02T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "5435bf12-6e36-4c62-a581-1631e75f1792",
+    "datetime": "2025-12-02T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d14a83f0-ff12-45e5-9e61-22ab8cd426e9",
+    "datetime": "2025-12-02T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e659d787-1c2d-44ad-b78d-d6dc40894ad4",
+    "datetime": "2025-12-02T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6c462604-4c22-4a97-a672-d439e08d9beb",
+    "datetime": "2025-12-02T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "5105981c-f6dd-45fd-a158-be142f1d22fa",
+    "datetime": "2025-12-02T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "53c2ac16-bad5-4c51-954f-79e1e1dd5d7b",
+    "datetime": "2025-12-02T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "19538b9e-19de-44d8-9c9e-b8602a2ae1cc",
+    "datetime": "2025-12-02T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "58772d1f-0748-4419-a0a9-51f5ff6b4f2e",
+    "datetime": "2025-12-02T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b7400779-c719-4b86-9f9f-96de69ab38f6",
+    "datetime": "2025-12-02T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "553ea244-4b92-4465-a8ee-347525769514",
+    "datetime": "2025-12-02T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6795d725-3bc5-442f-90dc-4eba1fdda565",
+    "datetime": "2025-12-02T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bb4303ad-5082-4a31-8a2d-4be360c32278",
+    "datetime": "2025-12-02T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b7166cd5-2213-4b8a-a9fd-dd8d22b3dbf9",
+    "datetime": "2025-12-02T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2195497d-5219-45f4-be25-e8ec1bb26030",
+    "datetime": "2025-12-02T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2a798163-ddb2-4dd0-836c-797d9fe27db5",
+    "datetime": "2025-12-02T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "998eaef8-3244-4b80-a2a9-b051493d41d5",
+    "datetime": "2025-12-02T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "666bb69f-9330-4ebf-8525-f8ca6569588d",
+    "datetime": "2025-12-02T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "016c3fb2-ffd4-49a6-be48-51b367d40781",
+    "datetime": "2025-12-02T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2774ed7b-8687-4f0c-af6d-fe0e1d135941",
+    "datetime": "2025-12-02T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6c3e2f53-4bb1-4495-b308-95f2dd4d3e49",
+    "datetime": "2025-12-02T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "803670c7-4404-46f3-87dd-c6940ba0faec",
+    "datetime": "2025-12-02T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "3ae0f703-672a-4c72-a707-7108463fd09b",
+    "datetime": "2025-12-02T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "a8770883-3186-417e-b310-66346e091b8a",
+    "datetime": "2025-12-02T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "70a1ef7e-ebc7-496d-b170-69711ae889ba",
+    "datetime": "2025-12-03T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0e2bf91e-4681-493a-98ac-ed43155a4c1c",
+    "datetime": "2025-12-03T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "8d3ea838-e5ee-46ec-8b09-d4d4cbd431ad",
+    "datetime": "2025-12-03T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "98ae9c50-785b-44d0-a992-ccf296853cb0",
+    "datetime": "2025-12-03T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "fa28ce4b-2f92-4f88-98e7-75b3c994ff24",
+    "datetime": "2025-12-03T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "288a8c46-7249-46c6-b8c2-babf8f7707ca",
+    "datetime": "2025-12-03T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bf8c69c8-c64a-465d-b3dc-5357dec43f35",
+    "datetime": "2025-12-03T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "79387d44-5f02-40af-adff-0fcb9ab07291",
+    "datetime": "2025-12-03T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e95d2a6b-4dd4-470f-8e40-cf6953d02d45",
+    "datetime": "2025-12-03T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "608f07fd-fbe7-4082-905c-022d2b2f5770",
+    "datetime": "2025-12-03T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0c5169d3-3011-4566-9ba8-7276683f376a",
+    "datetime": "2025-12-03T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0021761d-10f7-4f12-b3d5-d8ebfa029bec",
+    "datetime": "2025-12-03T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0d5eab74-370c-4e6d-a621-912670fdd5a8",
+    "datetime": "2025-12-03T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2bb96bdd-7050-428e-9904-5c742270a54e",
+    "datetime": "2025-12-03T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "da19e4a9-c376-4aff-ae09-49f1b5436c4a",
+    "datetime": "2025-12-03T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "ddc59acb-37e1-4576-a3c2-8b13d45d16e8",
+    "datetime": "2025-12-03T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b6317cc4-7537-4478-af9f-de37cb890e83",
+    "datetime": "2025-12-03T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "327747c8-45f6-4694-8fbe-2866d7d65f8f",
+    "datetime": "2025-12-03T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "715284e8-044f-4f75-9c57-5562d0fa9569",
+    "datetime": "2025-12-03T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0d26453b-7763-42d9-973c-e646ba735ed5",
+    "datetime": "2025-12-03T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "948d70e1-8809-4d51-9075-dbd32a0be022",
+    "datetime": "2025-12-03T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "05e9327f-f7b1-49f9-aa9c-dcd1061df1b3",
+    "datetime": "2025-12-03T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "ff998735-c3a4-4f15-98af-f91efa453308",
+    "datetime": "2025-12-03T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "4f3062c4-33b1-4024-a727-48b3c2a10dd6",
+    "datetime": "2025-12-03T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "9724d5d3-e4b5-4adc-aa9d-6bbebb752fbc",
+    "datetime": "2025-12-04T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "039c8f9d-77b4-42eb-9976-bfe15d84ff48",
+    "datetime": "2025-12-04T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e3033876-3c2b-4d3e-8d20-c125e07c2852",
+    "datetime": "2025-12-04T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bcde51e8-2bc5-4a8d-b588-88f03e4999df",
+    "datetime": "2025-12-04T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7da09671-829e-4a70-a7fb-8ae6e5cc132c",
+    "datetime": "2025-12-04T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b8b71a79-d765-4746-a45d-3769115f2aed",
+    "datetime": "2025-12-04T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "05c0fba5-68d0-4b06-99a8-9bbc6a3fd3ed",
+    "datetime": "2025-12-04T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d38eea09-4efa-4060-920c-02aa9f320717",
+    "datetime": "2025-12-04T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d7cd8fde-9198-498e-895b-ac476d2fa8ff",
+    "datetime": "2025-12-04T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "3a277bbf-b014-49c0-9f5d-f72f050772ab",
+    "datetime": "2025-12-04T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "51c1b151-d2c1-4df4-9dae-d7d756ead119",
+    "datetime": "2025-12-04T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "a316575f-130d-44b5-b31f-303f379cd387",
+    "datetime": "2025-12-04T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "19dfda59-70ef-42b3-922c-93a40e2491e3",
+    "datetime": "2025-12-04T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "736ec266-7831-4b69-a820-ec235989cb71",
+    "datetime": "2025-12-04T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "fb0dfcfc-8679-4937-93d3-6df46f9e579b",
+    "datetime": "2025-12-04T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d3fa2b7f-23cc-43ad-b932-9e55f6a39215",
+    "datetime": "2025-12-04T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7dae378e-8b39-41d1-b477-344b71327b7d",
+    "datetime": "2025-12-04T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d425e7da-1a2b-4b8a-a356-5811555b6a12",
+    "datetime": "2025-12-04T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b3fbdc2e-a3d4-42ab-81c9-d7e295065aec",
+    "datetime": "2025-12-04T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f1115d22-528d-4302-b70e-5bec4870674f",
+    "datetime": "2025-12-04T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "922a4c66-a248-4f69-886b-bca94fd97dcb",
+    "datetime": "2025-12-04T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "773dfcd9-f558-4293-be49-c4f4c1e053f5",
+    "datetime": "2025-12-04T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "41208bc9-518b-4e35-b3b7-f72a862d81a5",
+    "datetime": "2025-12-04T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "1e5c187d-393e-400f-be0f-c13fbe2b12a9",
+    "datetime": "2025-12-04T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b8e18809-5872-41ce-af13-ccc4580acb66",
+    "datetime": "2025-12-05T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "fda7dc5c-43d5-4f94-b50c-e807b97b17b1",
+    "datetime": "2025-12-05T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "82ad0ec7-0cb9-406e-89ec-52fdcdb29ea2",
+    "datetime": "2025-12-05T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e5477d3f-d390-42e9-b712-d6042d404b27",
+    "datetime": "2025-12-05T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "34ae4ca4-520c-4c73-a660-213020d7bc6b",
+    "datetime": "2025-12-05T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "709ee5da-7ff7-494e-b9ed-ad6f060dcc38",
+    "datetime": "2025-12-05T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f2e6536c-9313-447f-abd5-a2daefece20d",
+    "datetime": "2025-12-05T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "1b429359-45a9-4fe0-9e96-714991653d8a",
+    "datetime": "2025-12-05T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "811c696c-d5d9-46ee-8996-8e13dc106bf8",
+    "datetime": "2025-12-05T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "64b01c1b-5a0d-4f70-ae6e-b1ea22f0e9c2",
+    "datetime": "2025-12-05T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "48617604-8cd1-47dd-b36f-5de8097d1498",
+    "datetime": "2025-12-05T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "56c56736-561a-4093-8a62-2604d04d8a02",
+    "datetime": "2025-12-05T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "943e90c5-1005-4427-a379-ccfaa2db4d33",
+    "datetime": "2025-12-05T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f4e199e1-9c80-4e02-903d-e41ca2f2e1e9",
+    "datetime": "2025-12-05T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "d9a88948-aa05-42e5-9121-b34c2abac4d2",
+    "datetime": "2025-12-05T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6f1b5cbb-23cc-44a2-b8b0-616f3fc9fbec",
+    "datetime": "2025-12-05T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "361b03ef-5b07-42ae-b820-7dab18fb058b",
+    "datetime": "2025-12-05T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "62c486b9-1704-4c88-9e21-fec59efaf4c6",
+    "datetime": "2025-12-05T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b8f8e766-8aea-4c11-99e9-55d4f025db21",
+    "datetime": "2025-12-05T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0e25a316-a7df-48fe-8f19-8cb79e601700",
+    "datetime": "2025-12-05T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6c64cd6c-6ff4-41be-a5f8-e32651ea3222",
+    "datetime": "2025-12-05T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6a4f328c-fcc3-42d2-bd84-338489204d4b",
+    "datetime": "2025-12-05T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bd326db4-2ef9-4337-81d3-ccbee379c16d",
+    "datetime": "2025-12-05T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c00f4868-876e-4b02-aacd-5d6edc1c4f79",
+    "datetime": "2025-12-05T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "97d08157-ab01-45ef-9b1a-3ff0be2acebb",
+    "datetime": "2025-12-06T05:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "dbc7ad5f-6eaf-4560-a5a9-452f32aac07f",
+    "datetime": "2025-12-06T05:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "ece276dd-d78a-4777-9509-47d486e54b9b",
+    "datetime": "2025-12-06T06:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "0a9fcb9f-bb83-4e9c-a012-c4ca9daa9fa6",
+    "datetime": "2025-12-06T06:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "6dd1b8d8-da37-4e28-a2d9-b3bf2b58ae08",
+    "datetime": "2025-12-06T07:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bd1f89fc-b141-4018-a03f-74f1749b90f1",
+    "datetime": "2025-12-06T07:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "7a20e226-875c-4928-bc0e-780b77a6582f",
+    "datetime": "2025-12-06T08:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "517d6b18-eec9-461e-a491-363c2c6c87e4",
+    "datetime": "2025-12-06T08:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "e0f482fd-853b-454c-8cd6-7bd0f187eae7",
+    "datetime": "2025-12-06T09:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "94478a4f-c11f-4ef6-95bd-eb3af0820097",
+    "datetime": "2025-12-06T09:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "a0a6e773-d801-45f0-ab8a-4db46cf6cac0",
+    "datetime": "2025-12-06T10:14:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "520cff0f-057b-446f-bdc9-145bbd667eaf",
+    "datetime": "2025-12-06T10:44:45.833118",
+    "provider": "Dr. Blue(In-Person)",
+    "type": "in-person",
+    "is_booked": false
+  },
+  {
+    "slot_id": "f1535f96-aa07-47be-9a3b-0a8a738f285c",
+    "datetime": "2025-12-06T11:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "846213fd-e006-4f53-b614-18f859b9ea58",
+    "datetime": "2025-12-06T11:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "57a1f7b7-5ef3-4d49-9330-7f90823f2555",
+    "datetime": "2025-12-06T12:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "b3d2acca-3b29-4bf7-823f-06b48cbaef20",
+    "datetime": "2025-12-06T12:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "195dae8a-06bc-43b1-8391-6a23b3ede1c8",
+    "datetime": "2025-12-06T13:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "2ad43e1f-8ae1-48a0-b8b4-fb03eff1c6b7",
+    "datetime": "2025-12-06T13:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "c36372fc-5fa1-40bd-a929-8a205852fe78",
+    "datetime": "2025-12-06T14:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "bf3d069c-f162-424b-bdb6-20b4b6abb1f4",
+    "datetime": "2025-12-06T14:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "8f9806b4-7a5b-4158-a104-62b75706e31d",
+    "datetime": "2025-12-06T15:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "38764970-d9c0-410f-ab4d-45a5fd8fdba6",
+    "datetime": "2025-12-06T15:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "425fbf15-420e-44c4-bae3-856e14a0e11d",
+    "datetime": "2025-12-06T16:14:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  },
+  {
+    "slot_id": "9b318cc5-30f9-4fcf-a71d-4b87aab9dd99",
+    "datetime": "2025-12-06T16:44:45.833118",
+    "provider": "Dr. Pink(Virtual)",
+    "type": "virtual",
+    "is_booked": false
+  }
+]
