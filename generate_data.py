@@ -27,7 +27,7 @@ def generate_user_data():
             "email": fake.email(),
             "dob": fake.date_of_birth(minimum_age=18, maximum_age=90).isoformat(),
             # Randomly assign 0 to 2 conditions
-            "condition": random.sample(conditions, k=random.randint(0, 2)),
+            "medical_history": random.sample(conditions, k=random.randint(0, 2)),
             "phone_number": fake.phone_number()
         }
         user_data.append(record)
