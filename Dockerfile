@@ -6,8 +6,8 @@ FROM public.ecr.aws/lambda/python:3.12-arm64
 RUN pip install langchain-aws langchain-core pydantic boto3
 
 # 3. Copy specific code folders
-COPY lambda/llm_handler.py ${LAMBDA_TASK_ROOT}/
-COPY lambda/utils/ ${LAMBDA_TASK_ROOT}/utils/
+COPY app/llm_handler.py ${LAMBDA_TASK_ROOT}/
+COPY app/utils/ ${LAMBDA_TASK_ROOT}/utils/
 
 # 4. Tell the container what function to run
 # filename.function_name

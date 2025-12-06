@@ -7,6 +7,7 @@ import boto3
 import logging
 import urllib.parse
 from utils import db
+from utils import transcribe, voice
 
 # Langchain
 # use ChatBedrock client to talk to Claude
@@ -87,10 +88,17 @@ def lambda_handler(event, context):
         bucket = event['Records'][0]['s3']['bucket']['name']
         key = urllib.parse.unquote_plus(event['Records'][0]['s3']['object']['key'])
         
-        transcript_text = get_file_content(bucket, key)
-        logger.info(f"Input Text: {transcript_text}")
+        if key.endswith('.mp3'):
+            # Voice file uploaded, transcribe it
+            logger.info("Voice file detected. Starting transcription...")
+            transcript_text = transcribe.transcribe_audio(bucket, key)
+        else:
+            logger.info("Text file detected. Reading content...")
+            transcript_text = get_file_content(bucket, key)
+        
+        #logger.info(f"Input Text: {transcript_text}")
 
-        # Pick a random patient to simulate context
+        # simulate context
         patient = random.choice(db.get_all_patients())
         slots = db.get_available_slots()
 
@@ -100,12 +108,25 @@ def lambda_handler(event, context):
         logger.info(f"LangChain Result: {response_data}")
 
         # Auto booking logic
-        booking_status = "No booking suggested."
-
+        #booking_status = "No booking suggested."
+        try: 
+            audio_response_key = voice.generate_audio_response(
+                text=response_data['reasoning'], # Speak the reasoning
+                bucket=bucket
+            )
+            response_data['audio_response_key'] = audio_response_key
+        except Exception as e:
+            logger.error(f"Failed to generate voice response: {e}")
+            response_data['audio_response_key'] = None
+            
         # Check if AI suggested a slot
         slot_id = response_data.get('suggested_slot_id')
         if slot_id:
             logger.info(f"AI suggested slot {slot_id}. Attempting to book...")
+            success = db.book_slot(slot_id)
+            response_data['booking_confirmed'] = success
+        else:
+            response_data['booking_confirmed'] = False
         return {
             'statusCode': 200,
             'body': json.dumps(response_data)
