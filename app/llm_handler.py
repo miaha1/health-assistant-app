@@ -8,9 +8,6 @@ import logging
 import urllib.parse
 from utils import db
 from utils import transcribe, voice
-
-# Langchain
-# use ChatBedrock client to talk to Claude
 from langchain_aws import ChatBedrock
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
@@ -36,17 +33,17 @@ def get_file_content(bucket, key):
     return response['Body'].read().decode('utf-8')
 
 def analyze_with_langchain(patient, transcript, slots):
-    # Setup the Brain (Claude 3 Haiku)
+    # Setup the LLM
     llm = ChatBedrock(
         model_id="anthropic.claude-3-haiku-20240307-v1:0",
         client=boto3.client("bedrock-runtime", region_name="us-east-1"),
         model_kwargs={"max_tokens": 1000}
     )
 
-    # Setup the Parser (Enforces JSON)
+    # Setup the Parser
     parser = JsonOutputParser(pydantic_object=TriageResponse)
 
-    # Create the Prompt
+    # Prompt
     system_template = """
     You are a medical triage assistant.
     Patient Name: {patient_name} 
@@ -66,14 +63,13 @@ def analyze_with_langchain(patient, transcript, slots):
         ("user", "{transcript}")
     ])
 
-    # The Chain (Prompt -> Brain -> Formatter)
     chain = prompt | llm | parser
 
     # Run
     result = chain.invoke({
         "patient_name": patient['name'],
         "history": ", ".join(patient['medical_history']),
-        "slots": json.dumps(slots[:5]), # Only show first 5 slots to save tokens
+        "slots": json.dumps(slots[:5]),
         "transcript": transcript,
         "format_instructions": parser.get_format_instructions()
     })
@@ -89,7 +85,7 @@ def lambda_handler(event, context):
         key = urllib.parse.unquote_plus(event['Records'][0]['s3']['object']['key'])
         
         if key.endswith('.mp3'):
-            # Voice file uploaded, transcribe it
+            # Voice file uploaded
             logger.info("Voice file detected. Starting transcription...")
             transcript_text = transcribe.transcribe_audio(bucket, key)
         else:
@@ -107,7 +103,7 @@ def lambda_handler(event, context):
         response_data = analyze_with_langchain(patient, transcript_text, slots)
         logger.info(f"LangChain Result: {response_data}")
 
-        # Auto booking logic
+        # Generate voice respond
         #booking_status = "No booking suggested."
         try: 
             audio_response_key = voice.generate_audio_response(
