@@ -64,6 +64,7 @@ Input (test.txt):
 
 Output (CloudWatch Logs):
 
+```text
 JSON
 
 {
@@ -74,6 +75,7 @@ JSON
   "suggested_slot_id": "s-2045",
   "booking_confirmation": true
 }
+```
 # Future Improvements
 Voice Integration: Add Amazon Transcribe to handle raw .mp3 audio files.
 
