@@ -32,7 +32,6 @@ Infrastructure: Docker (Containerized Lambda), AWS SAM/CLI
 Language: Python 3.12
 
 # Project Structure
-Plaintext
 
 health-triage-assistant/
 ├── lambda/
