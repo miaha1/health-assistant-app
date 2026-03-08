@@ -32,7 +32,7 @@ Infrastructure: Docker (Containerized Lambda), AWS SAM/CLI
 Language: Python 3.12
 
 # Project Structure
-
+```text
 health-triage-assistant/
 ├── lambda/
 │   ├── llm_handler.py       # Main Logic: LangChain pipeline & Booking logic
@@ -45,6 +45,7 @@ health-triage-assistant/
 ├── generate_data.py         # Script to generate synthetic patient/slot data
 ├── Dockerfile               # AWS Lambda Docker definition (ARM64 optimized)
 └── README.md
+```
 # Features
 Structured AI Output: Uses LangChain OutputParsers to guarantee strict JSON responses (Severity Score 1-10, Symptoms List).
 
